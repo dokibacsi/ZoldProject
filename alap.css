@@ -3,18 +3,59 @@ body{
 
 }
 
+main{
+    background-color: #D8CCB4;
+    border: 1px solid black;
+    width: 1200px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 0;
+}
+
 .teszt{
     background: #C4B69C;
+    width: 1000px;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
 }
 
 button{
-    background-color: #D8CCB4;
+    background-color: #F1EDE2;
+}
 
+.elozo{
+    width: 100px;
+}
+
+.kovetkezo{
+    width: 100px;
 }
 
 li{
     list-style-type: none;
     margin: 0;
+}
+
+.tipusok{
+    margin: auto;
+    width: 325px;
+    margin-bottom: 10px;
+}
+
+.tipusok button{
+    border-radius: 10px;
+}
+
+.leptetes{
+    width: 225px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+.leptetes button{
+    border-radius: 10px;
 }
 
 /*
