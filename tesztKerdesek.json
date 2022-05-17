@@ -1,0 +1,269 @@
+{
+    "altalanosIskolai": [
+        {
+            "kerdes": "A műanyagot milyen színű szelektív kukába gyűjtjük?",
+            "valasz1": "kék",
+            "valasz2": "zöld",
+            "valasz3": "citromsárga",
+            "helyesValasz": "citromsárga"
+        },
+        {
+            "kerdes": "A papírt milyen színű szelektív kukába gyűjtjük?",
+            "valasz1": "kék",
+            "valasz2": "piros",
+            "valasz3": "szürke",
+            "helyesValasz": "kék"
+        },
+        {
+            "kerdes": "Az üveget milyen színű szelektív kukába gyűjtjük?",
+            "valasz1": "zöld",
+            "valasz2": "citromsárga",
+            "valasz3": "lila",
+            "helyesValasz": "zöld"
+        },
+        {
+            "kerdes": "A fémet milyen színű szelektív kukába gyűjtjük?",
+            "valasz1": "szürke",
+            "valasz2": "narancssárga",
+            "valasz3": "kék",
+            "helyesValasz": "szürke"
+        },
+        {
+            "kerdes": "Milyen színűek a szelektív kukák?",
+            "valasz1": "citromsárga, kék, szürke, zöld",
+            "valasz2": "piros, kék, zöld, fekete",
+            "valasz3": "citromsárga, zöld, lila, rózsaszín",
+            "helyesValasz": "citromsárga, kék, szürke, zöld"
+        },
+        {
+            "kerdes": "A felsorolás között mi a legkörnyezetbarátabb közlekedés?",
+            "valasz1": "séta",
+            "valasz2": "vonat",
+            "valasz3": "autó",
+            "helyesValasz": "séta"
+        },
+        {
+            "kerdes": "A felsorolás között melyik a takarékosabb?",
+            "valasz1": "zuhanyzás",
+            "valasz2": "bahfürdő, pancsolás kádban",
+            "valasz3": "fürdűszobából vizipark csinálása",
+            "helyesValasz": "zuhanyzás"
+        },
+        {
+            "kerdes": "Miket komposztálhatunk?",
+            "valasz1": "nagy ágak, fatörzsek, diófalevél",
+            "valasz2": "zöldség - gyümölcs maradék, tojáshéj",
+            "valasz3": "fém, műanyag, vegyszeres dolgok",
+            "helyesValasz": "zöldség - gyümölcs maradék, tojáshéj"
+        },
+        {
+            "kerdes": "Fogmosásnál... ",
+            "valasz1": "elzárom a csapot, ha már nem kell víz",
+            "valasz2": "nem zárom el a csapot, hadd folyjon",
+            "valasz3": "ki tekerem tejlesen, mert miért ne",
+            "helyesValasz": "elzárom a csapot, ha már nem kell víz"
+        },
+        {
+            "kerdes": "Közlekedésnél....",
+            "valasz1": "autózom",
+            "valasz2": "tömegközlekedést használok",
+            "valasz3": "ha lehet biciklizek",
+            "helyesValasz": "ha lehet biciklizek"
+        },
+        {
+            "kerdes": "Az okostelefont...",
+            "valasz1": "évente cserélem",
+            "valasz2": "csak 2-3 évente cserélem",
+            "valasz3": "amikor van egy jobb akkor azt rögtön megveszem",
+            "helyesValasz": "csak 2-3 évente cserélem"
+        }
+    ],
+    "kozepIskolai": [
+        {
+            "kerdes": "Hogyan dobjuk a szelektívbe a műanyagot?",
+            "valasz1": "koszosan",
+            "valasz2": "Tisztán, kimosva",
+            "valasz3": "mindegy",
+            "helyesValasz": "Tisztán, kimosva"
+        },
+        {
+            "kerdes": "A felsorolás között mi a legkörnyelózetbarátabb közlekedés?",
+            "valasz1": "séta",
+            "valasz2": "vonat",
+            "valasz3": "autó",
+            "helyesValasz": "séta"
+        },
+        {
+            "kerdes": "Ha szemetet látsz eldobva...",
+            "valasz1": "belerúgok",
+            "valasz2": "ott hagyom",
+            "valasz3": "felveszem és kidobom a legközelebb kukába",
+            "helyesValasz": "felveszem és kidobom a legközelebb kukába"
+        },
+        {
+            "kerdes": "Mi kerülhet a papír szelektívbe?",
+            "valasz1": "újságok, tejes -gyümölcsleves papírdobozok, könyvek",
+            "valasz2": "olajjal/zsíradékkal szennyezett papír",
+            "valasz3": "hőpapír (nyugta, blokk)",
+            "helyesValasz": "újságok, tejes -gyümölcsleves papírdobozok, könyvek"
+        },
+        {
+            "kerdes": "Miket komposztálhatunk?",
+            "valasz1": "nagy ágak, fatörzsek, diófalevér",
+            "valasz2": "zöldség - gyümölcs maradék, tojáshéj",
+            "valasz3": "fém, műanyag, vegyszeres dolgok",
+            "helyesValasz": "zöldség - gyümölcs maradék, tojáshéj"
+        },
+        {
+            "kerdes": "Mi a komposzt?",
+            "valasz1": "szerves és szervetlen anyagok lebomlásának a végterméke",
+            "valasz2": "szervetlen anyagok lebomlásának a végterméke",
+            "valasz3": "szerves anyagok lebomlásának a végterméke",
+            "helyesValasz": "szerves anyagok lebomlásának a végterméke"
+        },
+        {
+            "kerdes": "A könyveket....",
+            "valasz1": "kiveszem a könyvtárból/elcserélem",
+            "valasz2": "megveszem drágán a boltban",
+            "valasz3": "elégetem,ha már nem kell",
+            "helyesValasz": "kiveszem a könyvtárból/elcserélem"
+        },
+        {
+            "kerdes": "Mi az ökologiai lábnyom?",
+            "valasz1": "Egy mutató, hogy mekkora mértékben éljük föl természetes erőforrásokat.",
+            "valasz2": "Az amikor sárba lépünk és ott marad a cipő talpának a lenyomata.",
+            "valasz3": "Az amikor valaki lápnyomokat hagy az úton",
+            "helyesValasz": "Egy mutató, hogy mekkora mértékben éljük föl természetes erőforrásokat."
+        },
+        {
+            "kerdes": "Az okostelefont...",
+            "valasz1": "csak 2-3 évente cserélem",
+            "valasz2": "évente cserélem",
+            "valasz3": "amikor van egy jobb akkor azt rögtön megveszem",
+            "helyesValasz": "csak 2-3 évente cserélem"
+        },
+        {
+            "kerdes": "Közlekedésnél....",
+            "valasz1": "a színes üveghulladékok közé dobjuk a kupak nélküli boros-, pezsgős, sörös- és röviditalos színesüvegeket, természetesen átöblítés után, tisztán.",
+            "valasz2": "csak szimplán kidobjuk",
+            "valasz3": "a fehérüveg-hulladékok közé csak az olyan elöblített üvegeket dobjuk, amelyek átlátszók. Ilyen például a dunsztosüveg, a tejesüveg, bébiételes üveg stb.",
+            "helyesValasz1": "a színes üveghulladékok közé dobjuk a kupak nélküli boros-, pezsgős, sörös- és röviditalos színesüvegeket, természetesen átöblítés után, tisztán.",
+            "helyesValasz2": "a fehérüveg-hulladékok közé csak az olyan elöblített üvegeket dobjuk, amelyek átlátszók. Ilyen például a dunsztosüveg, a tejesüveg, bébiételes üveg stb."
+        },
+        {
+            "kerdes": "Mi a legjobb alternatíva a nejlon zacskókra?",
+            "valasz1": "erősebb műanyagból készült szatyrok",
+            "valasz2": "vászon szatyrok",
+            "valasz3": "papír zacskók",
+            "helyesValasz": "vászon szatyrok"
+        }
+    ],
+    "fiatalFelnottKerdesek": [
+        {
+            "kerdes": "Található-e Magyarországon (műanyag) csomagolás mentes bolt?",
+            "valasz1": "Igen, van",
+            "valasz2": "Magyaroszágon és külföldön sincs",
+            "valasz3": "Magyaroszágon nincs, de külföldön van",
+            "helyesValasz": "Igen, van"
+        },
+        {
+            "kerdes": "Hogyan dobjuk a szelektívbe a műanyagot?",
+            "valasz1": "tisztán, kimosva",
+            "valasz2": "koszosan",
+            "valasz3": "mindegy",
+            "helyesValasz": "tisztán, kimosva"
+        },
+        {
+            "kerdes": "Ha bővíteni akarod a ruhatárad és mindegy milyen márkájú akkor...",
+            "valasz1": "Online vásárolok",
+            "valasz2": "turkálókban vásárolok",
+            "valasz3": "noname boltokban vásárolok",
+            "helyesValasz": "turkálókban vásárolok"
+        },
+        {
+            "kerdes": "Mi a legjobb alternatíva a nejlon zacskókra?",
+            "valasz1": "vászon szatyrok",
+            "valasz2": "papír zacskók",
+            "valasz3": "erősebb műanyagból készült szatyrok",
+            "helyesValasz": "vászon szatyrok"
+        },
+        {
+            "kerdes": "A felsorolás között mi a legkörnyelózetbarátabb közlekedés?",
+            "valasz1": "vonat",
+            "valasz2": "autó",
+            "valasz3": "séta",
+            "helyesValasz": "séta"
+        },
+        {
+            "kerdes": "Ha szemetet látsz eldobva...",
+            "valasz1": "felveszem és kidobom a legközelebb kukába",
+            "valasz2": "belerúgok",
+            "valasz3": "ott hagyom",
+            "helyesValasz": "felveszem és kidobom a legközelebb kukába"
+        },
+        {
+            "kerdes": "Mi az újrahasznosítás célja?",
+            "valasz1": "kevesebb szemét legyen",
+            "valasz2": "A természetes erőforrások lehető legkevesebb felhasználása.",
+            "valasz3": "mert jól hangzik",
+            "helyesValasz": "A természetes erőforrások lehető legkevesebb felhasználása."
+        },
+        {
+            "kerdes": "Mi kerülhet a papír szelektívbe?",
+            "valasz1": "újságok, tejes -gyümölcsleves papírdobozok, könyvek",
+            "valasz2": "hőpapír (nyugta, blokk)",
+            "valasz3": "olajjal/zsíradékkal szennyezett papír",
+            "helyesValasz": "újságok, tejes -gyümölcsleves papírdobozok, könyvek"
+        },
+        {
+            "kerdes": "Mi a komposzt?",
+            "valasz1": "szerves anyagok lebomlásának a végterméke",
+            "valasz2": "szerves és szervetlen anyagok lebomlásának a végterméke",
+            "valasz3": "szervetlen anyagok lebomlásának a végterméke",
+            "helyesValasz": "szerves anyagok lebomlásának a végterméke"
+        },
+        {
+            "kerdes": "Miket komposztálhatunk?",
+            "valasz1": "zöldség - gyümölcs maradék, tojáshéj",
+            "valasz2": "nagy ágak, fatörzsek, diófalevér",
+            "valasz3": "fém, műanyag, vegyszeres dolgok",
+            "helyesValasz1": "zöldség - gyümölcs maradék, tojáshéj"
+        },
+        {
+            "kerdes": "Vásárlásnál",
+            "valasz1": "figyelembe veszem, hogy milyen a csomagolása",
+            "valasz2": "nem törödök, hogy milyen a csomagolása",
+            "valasz3": "nem érdekel, hogy milyen a csomagolása",
+            "helyesValasz": "figyelembe veszem, hogy milyen a csomagolása"
+        },
+        {
+            "kerdes": "Ha elmegyek a boltba.....",
+            "valasz1": "mindent megveszek, amit a szemem kíván",
+            "valasz2": "felvásárolom az egész LIDL-t",
+            "valasz3": "csak azt veszem meg amire szükségem van",
+            "helyesValasz": "figyelembe veszem, hogy milyen a csomagolása"
+        },
+        {
+            "kerdes": "Mi a szürkevíz?",
+            "valasz1": "szürke színű víz",
+            "valasz2": "olyan szennyezett víz amelyben, szappan vagy mosószer maradványok, kisebb nagyobb szennyeződések vannak.",
+            "valasz3": "javarészt a vécékben kepződik, olyan  szennyezett vízet értünk alatta, amiben fertőző, egészségre és környezetre veszélyes baktériumok vannak",
+            "helyesValasz": "olyan szennyezett víz amelyben, szappan vagy mosószer maradványok, kisebb nagyobb szennyeződések vannak."
+        },
+        {
+            "kerdes": "Mi a feketevíz?",
+            "valasz1": "fekete színű víz",
+            "valasz2": "olyan szennyezett víz amelyben, szappan vagy mosószer maradványok, kisebb nagyobb szennyeződések vannak.",
+            "valasz3": "javarészt a vécékben kepződik, olyan szennyezett vízet értünk alatta, amiben fertőző, egészségre és környezetre veszélyes baktériumok vannak",
+            "helyesValasz": "javarészt a vécékben kepződik, olyan szennyezett vízet értünk alatta, amiben fertőző, egészségre és környezetre veszélyes baktériumok vannak"
+        }
+        ,
+        {
+            "kerdes": "Az okostelefont...",
+            "valasz1": "évente cserélem",
+            "valasz2": "csak 2-3 évente cserélem",
+            "valasz3": "amikor van egy jobb akkor azt rögtön megveszem",
+            "helyesValasz": "csak 2-3 évente cserélem"
+        }
+    ]
+}

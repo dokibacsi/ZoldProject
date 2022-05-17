@@ -1,0 +1,28 @@
+body{
+    background-color: #E8DED4;
+
+}
+
+.teszt{
+    background: #C4B69C;
+}
+
+button{
+    background-color: #D8CCB4;
+
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+}
+
+/*
+Colors: 
+
+Ultralight: #F1EDE2
+Light #D8CCB4
+Dark #E8DED4
+ULTRADARK #C4B69C
+
+*/
